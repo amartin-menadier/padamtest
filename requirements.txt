@@ -1,0 +1,7 @@
+
+python -m pip install Django==3.2.5
+python -m pip install django-extensions==3.1.3
+python -m pip install Werkzeug==2.0.1
+python -m pip install ipython==7.25.0
+python -m pip install factory-boy==3.2.0
+python -m pip install Faker==8.10.1
